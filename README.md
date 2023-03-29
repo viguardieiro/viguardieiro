@@ -1,5 +1,3 @@
-Hi! I am currently a Master's student at the Visual Data Science Lab in the [School of Applied Mathematics (EMAp)](https://emap.fgv.br/) of [Fundação Getulio Vargas (FGV)](https://portal.fgv.br/). I earned my B.S. in Applied Mathematics from FGV in 2020.
-
 Hi! I am currently a Master's student at the Visual Data Science Lab ([V-DS](http://www.visualdslab.com/)) in the School of Applied Mathematics ([EMAp](https://emap.fgv.br/)) of Fundação Getulio Vargas ([FGV](https://portal.fgv.br/)), working with professors [Jorge Poco](https://vgc.poly.edu/~jpocom/) and [Marcos M. Raimundo](https://marcosmrai.github.io/). I obtained my B.S. in Applied Mathematics from FGV/EMAp in 2020 under the supervision of Jorge Poco and Marcos M. Raimundo. 
 
 I am interested in Machine Learning, Optimization (with a focus but not limited to Multi-Objective Optimization), and Statistics. 
