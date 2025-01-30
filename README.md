@@ -1,12 +1,12 @@
-Hi! I am a research scientist currently affiliated with the Visualization and Data Analytics Research Center ([VIDA](https://vida.engineering.nyu.edu/)) at New York University ([NYU](https://www.nyu.edu/)), where I work under the guidance of Professor [Claudio Silva](https://ctsilva.github.io/). 
+Hey there! I'm Vitoria, a first-year Ph.D. student at the University of Pennsylvania. I work in the [Brachio Lab](https://brachiolab.github.io/) 🦕 under the supervision of Professor [Eric Wong](https://riceric22.github.io/). My research focuses on machine learning interpretability and broader topics in trustworthy ML.
 
-In 2023, I concluded my M.S. in Mathematical Modelling at the School of Applied Mathematics ([EMAp](https://emap.fgv.br/)) of Fundação Getulio Vargas ([FGV](https://portal.fgv.br/)). I was part of the Visual Data Science Lab ([V-DS](http://www.visualdslab.com/)) and worked with Professors [Jorge Poco](http://visualdslab.com/~jpocom/) and [Marcos M. Raimundo](https://ic.unicamp.br/~mraimundo/) (from [Unicamp](https://ic.unicamp.br/en/)). I obtained my B.S. in Applied Mathematics from FGV/EMAp in 2020 under the supervision of Jorge Poco and Marcos M. Raimundo. 
+I earned my Master of Science in Mathematical Modelling in 2023 and my Bachelor of Science in Applied Mathematics in 2020 from the School of Applied Mathematics at [Fundação Getulio Vargas](https://portal.fgv.br/).  During my studies, I was part of the [Visual Data Science Lab](http://www.visualdslab.com/) and worked with Professors [Jorge Poco](http://visualdslab.com/~jpocom/) and [Marcos M. Raimundo](https://ic.unicamp.br/~mraimundo/). My research focused on machine learning, multi-objective optimization, and fairness in ML.
 
-I am interested in Machine Learning, Explainable AI, AI Ethics, Topological Data Analysis, and Optimization. 
+After my master's, I worked as a research scientist at the [Visualization and Data Analytics Research Center](https://vida.engineering.nyu.edu/) at [New York University](https://www.nyu.edu/) with Professor [Claudio Silva](https://ctsilva.github.io/). At NYU, I focused on visualization systems for Explainable AI and topological data analysis, developing tools to help interpret complex ML models.
 
-My current research focuses on visualization systems for Explainable AI and Topological Data Analysis. 
+My research interests include Machine Learning, Trustworthy ML, ML Interpretability, and Optimization.
 
-I previously researched Multi-Objective Machine Learning and the development of Fair ML models.
+Thanks for stopping by!
 
 <!--
 **viguardieiro/viguardieiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
